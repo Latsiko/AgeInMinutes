@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgeInMinutes</string>
+    <string name="calculate_your_age_in_minutes">CALCULATE YOUR AGE IN MINUTES!</string>
+    <string name="motivation">"Let's do it"</string>
+    <string name="selectDate">Select Date</string>
+    <string name="ageInMinutes">YOUR AGE IN MINUTES</string>
+
+</resources>
